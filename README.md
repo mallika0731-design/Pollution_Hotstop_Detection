@@ -1,4 +1,5 @@
 🏭 Delhi Winter Air Pollution Hotspot Detection
+
 📌 Overview
 
 Air pollution in Delhi peaks during winter due to meteorological conditions, emissions, and regional factors.
@@ -151,5 +152,5 @@ Policy and public health analysis
 
 👤 Author
 
-Mallika Bhardwaj
+Mallika Bhardwaj |
 Data Science | Machine Learning
